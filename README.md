@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xpsizn
-- 👀 I’m interested in stock trading bots.
-- 🌱 I’m currently learning data analytics and cyber security.
+- 👀 I’m interested in automated trading systems and cyber security.
+- 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me at wvirachai@hotmail.com
 
