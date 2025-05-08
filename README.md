@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xpsizn
+- 👋 Hi, I’m @xpsign
 - 👀 I’m interested in automated trading systems and cyber security.
 - 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on Github.
